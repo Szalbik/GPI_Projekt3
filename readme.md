@@ -52,4 +52,4 @@ Project is: _finished_.
 
 ## Contact
 
-Created by [@Damian Szalbierz](https://github.com/Szalbik) and [@Wojciech Bełka](https://github.com/wbelka94) - feel free to contact us!
+Created by [@Damian Szalbierz](https://github.com/Szalbik) - feel free to contact!
